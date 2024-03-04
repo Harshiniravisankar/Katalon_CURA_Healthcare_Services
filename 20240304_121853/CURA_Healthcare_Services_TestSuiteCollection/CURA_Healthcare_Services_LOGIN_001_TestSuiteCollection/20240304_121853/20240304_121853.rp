@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportCollectionEntity>
+   <description></description>
+   <name>20240304_121853</name>
+   <tag></tag>
+   <displayName>20240304_121853</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/20240304_121853/CURA_Healthcare_Services_TestSuite/CURA_Healthcare_Services_LOGIN_001_TestSuite/20240304_121857</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+   <testSuiteCollectionId>Test Suites/CURA_Healthcare_Services_TestSuiteCollection/CURA_Healthcare_Services_LOGIN_001_TestSuiteCollection</testSuiteCollectionId>
+</ReportCollectionEntity>
