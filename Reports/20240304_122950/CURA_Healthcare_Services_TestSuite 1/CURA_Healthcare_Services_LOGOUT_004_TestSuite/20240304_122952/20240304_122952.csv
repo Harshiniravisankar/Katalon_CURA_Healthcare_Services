@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CURA_Healthcare_Services_LOGOUT_004_TestSuite,Chrome 122.0.0.0,,,04-03-2024 12:30:09,04-03-2024 12:31:11,1m - 1.392s,PASSED
+,,,,,,,
+Test Cases/CURA_Healthcare_Services/TC_CHS_LOGOUT_001,Chrome 122.0.0.0,,,04-03-2024 12:30:10,04-03-2024 12:31:11,1m - 0.559s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 122.0.0.0,,,04-03-2024 12:30:11,04-03-2024 12:30:11,0.000s,PASSED
+"openBrowser("""")",Chrome 122.0.0.0,,,04-03-2024 12:30:11,04-03-2024 12:30:18,7.459s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 122.0.0.0,,,04-03-2024 12:30:18,04-03-2024 12:30:31,13.053s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare Services_LOGOUT_004_OR/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Chrome 122.0.0.0,,,04-03-2024 12:30:31,04-03-2024 12:30:40,8.417s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare Services_LOGOUT_004_OR/Page_CURA Healthcare Service/a_Login""))",Chrome 122.0.0.0,,,04-03-2024 12:30:40,04-03-2024 12:30:43,2.699s,PASSED
+"setText(findTestObject(""Object Repository/CURA Healthcare Services_LOGOUT_004_OR/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 122.0.0.0,,,04-03-2024 12:30:43,04-03-2024 12:30:45,1.997s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/CURA Healthcare Services_LOGOUT_004_OR/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 122.0.0.0,,,04-03-2024 12:30:45,04-03-2024 12:30:46,1.007s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare Services_LOGOUT_004_OR/Page_CURA Healthcare Service/button_Login""))",Chrome 122.0.0.0,,,04-03-2024 12:30:46,04-03-2024 12:30:48,2.936s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare Services_LOGOUT_004_OR/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Chrome 122.0.0.0,,,04-03-2024 12:30:48,04-03-2024 12:30:49,0.645s,PASSED
+"click(findTestObject(""Object Repository/CURA Healthcare Services_LOGOUT_004_OR/Page_CURA Healthcare Service/a_Logout""))",Chrome 122.0.0.0,,,04-03-2024 12:30:49,04-03-2024 12:30:51,1.820s,PASSED
+closeBrowser(),Chrome 122.0.0.0,,,04-03-2024 12:30:51,04-03-2024 12:31:11,19.900s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,04-03-2024 12:31:11,04-03-2024 12:31:11,0.001s,PASSED
