@@ -8,7 +8,7 @@ Step 2: Create the Test Cases & Test scenarios in Excel sheet.
 
 Step 3: Create the Test Data for Which Scenarios in Excel sheet.
 
-Step 4: Go to the Katalon Studio tool, First create the Project and give a name based on the project.
+Step 4: Go to the Katalon Studio Tool, First create the Project and give a name based on the project.
 
 Step5: In the Test Cases folder create the test case.
 
