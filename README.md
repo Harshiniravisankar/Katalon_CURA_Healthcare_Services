@@ -20,6 +20,6 @@ Step 8: All results in The GitHub and Jenkins.
 
 Step 9: All new updates are added to GitHub with a report from Katalon studio.
 
-Step 10: Finally the project is 90% completed and the remaining 20% send a report via email to the Host & username with port.
+Step 10: Finally the project is 90% completed and the remaining 20% send a report via email to the Host & Username with port.
 
-Step11: My project with the help of Katalon Studio, Smartinternz & Dr.T.Mamatha Madam is Training for this Software Testing Automation Testing Program Power by Smartinternz & Katalon Studio Team.
+Step11: My project with the help of Katalon Studio, Smartinternz & Dr.T.Mamatha Madam is Training for this Software Testing Automation Testing Program Power by SmartInternz & Katalon Studio Team.
