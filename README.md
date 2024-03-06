@@ -22,4 +22,4 @@ Step 9: All new updates are added to GitHub with a report from Katalon studio.
 
 Step 10: Finally the project is 90% completed and the remaining 20% send a report via email to the Host & Username with port.
 
-Step11: My project with the help of Katalon Studio, Smartinternz & Dr.T.Mamatha Madam is Training for this Software Testing Automation Testing Program Power by SmartInternz & Katalon Studio Team.
+Step11: My project with the help of Katalon Studio, SmartInternz & Dr.T.Mamatha Madam is Training for this Software Testing Automation Testing Program Power by SmartInternz & Katalon Studio Team.
